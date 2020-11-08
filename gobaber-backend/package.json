@@ -1,0 +1,39 @@
+{
+  "name": "gobarder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "queue": "nodemon src/queue.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bee-queue": "^1.2.3",
+    "cors": "^2.8.5",
+    "date-fns": "^2.0.0-beta.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "express-handlebars": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.19",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.11",
+    "nodemailer-express-handlebars": "^4.0.0",
+    "pg": "^8.2.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.9",
+    "youch": "^2.0.10",
+    "yup": "^0.29.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "sequelize-cli": "^5.5.1",
+    "sucrase": "^3.14.0"
+  }
+}
