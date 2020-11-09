@@ -56,7 +56,7 @@ npm install
 npm run start
 ```
 
-### Fron-end (Mobile) `Requer o android Studio + Emulador Android`
+### Fron-end (Mobile) `Requer o Android Studio + Emulador Android`
 ```
 Abra o Emulador no Android Studio
 cd gobaberMobile
