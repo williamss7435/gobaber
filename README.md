@@ -3,8 +3,8 @@
 </p>
 
 # GoBaber
-![stacks](https://img.shields.io/badge/React.js-%20-green) ![stacks](https://img.shields.io/badge/React%20Native-%20-green) ![stacks](https://img.shields.io/badge/Node.js-%20-green)
-![stacks](https://img.shields.io/badge/Sequelize-%20-blue) ![stacks](https://img.shields.io/badge/Express-%20-blue)
+![stacks](https://img.shields.io/badge/React.js-%20-green) ![stacks](https://img.shields.io/badge/React%20Native-%20-green) 
+![stacks](https://img.shields.io/badge/Redux-%20-brightgreen) ![stacks](https://img.shields.io/badge/Node.js-%20-green) ![stacks](https://img.shields.io/badge/Sequelize-%20-blue) ![stacks](https://img.shields.io/badge/Express-%20-blue)
 <p align="center">
   <img src="uploads/main.jpg"/>
 </p>
@@ -33,6 +33,7 @@
 - [x] Express
 - [x] Sequelize
 - [x] React
+- [x] Redux
 - [x] Axios
 - [x] Styled Components
 - [x] React Router Dom
